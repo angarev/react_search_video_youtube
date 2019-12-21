@@ -1,4 +1,4 @@
-##Basic search interface to find youtube videos. The project is part of Stephen Grider course - Master React v16.6.
+## Basic search interface to find youtube videos. The project is part of Stephen Grider course - Master React v16.6.
 
 [ Demo link](https://searchvideo.netlify.com/)
 
